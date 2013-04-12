@@ -1,4 +1,0 @@
-wdd
-===
-
-Web Design Standards
