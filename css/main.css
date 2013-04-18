@@ -30,7 +30,15 @@ body {
 p {
 	font-family: 'Donegal One', sans-serif;
 	font-size: 20px;
+	clear:left;
 	}
+	
+#process {
+	font-family: 'Donegal One', sans-serif;
+	font-size: 20px;
+	-moz-column-count: 3;
+	
+}
 
 
 article p img {
@@ -118,8 +126,7 @@ h4 {
 	font-family: 'Gabriela', sans-serif;
 	height: 30px;
 	clear: both;
-	margin: auto;
-	font-size: 20px;
+	font-size: 25px;
 	
 }
 
@@ -129,9 +136,15 @@ h4 {
 	margin-bottom: 30px;
 }
 
+
+
+
+
+
 /* footer---------------------------------------------------------------*/
 
 footer {
 	font-family: Arial, sans-serif;
+	
 	
 }
