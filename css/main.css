@@ -1,0 +1,91 @@
+/* Main Content ------------------------------------------------------*/
+
+h1 {
+	width: 1200px;
+	height: 50px;
+	color: #ffffff;
+	text-align: center;
+	font-family: 'Gabriela', sans-serif;
+	background-color: #000000;
+	padding: 5px;
+	margin: 50 auto;
+	clear: both;
+}
+h2 {
+	width: 500px;
+	height: 30px;
+	text-align: center;
+	float:right;
+	margin-top: 60px;
+}
+
+body {
+	font-family: Arial, "Times New Roman", sans-serif;
+	width: 1200px;
+	margin: 0 auto;
+	background-color: #616D7E
+	}
+	
+p {
+	font-family: 'Donegal One', sans-serif;
+	font-size: 20px;
+	
+	
+}
+
+aside {
+	font-family: 'Donegal One', sans-serif;
+	font-size: 20px;
+}
+	
+img {
+	float:left;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	border-style: solid;
+	border-color: #000000;
+}
+
+h3 {
+	clear: left;
+	margin-top: 10px;
+}
+	
+/* Navigation--------------------------------------------------------*/
+
+nav ul {
+	width: 600px;
+	height: 45px;
+	margin: 0 auto;
+	color: #ffffff;
+	list-style-type: none;
+	background-color: #000000;
+	padding: 0;
+	overflow: hidden;
+}
+
+nav ul li {
+	width: 200px;
+	height: 45px;
+	background: #000000;
+	float:left;
+	}
+	
+nav ul li a{
+	text-decoration: none;
+	background: #000000;
+	display: block;
+	height: 45px;
+	line-height: 30px;
+	text-align: center;
+	padding-top: 5px;
+	color: #E42217
+	}
+	
+nav ul li a:hover {
+	color: #E42217;
+	background: #ffffff;	
+}
+
+
+
