@@ -112,14 +112,14 @@ ul {
 	list-style-type: none;
 	margin: 1.666666666667% auto; /* 20px/1200px */
 	overflow: hidden;
-	padding: 5px;
+	padding: .416666666667%; /* 5px/1200px */
 }
 
 ul li img {
 	float:left;
-	margin-left: 20px;
+	margin-left: 1.666666666667%; /* 20px/1200px */
 	border: 10px solid #fff;
-	padding: 5px;
+	padding: .416666666667%;
 	}
 
 
