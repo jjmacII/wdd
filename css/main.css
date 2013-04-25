@@ -18,7 +18,8 @@ h2 {
 	height: 03.333333333333%; /* 40px/1200px */
 	text-align: center;
 	float:right;
-	margin-top: 5%; /* 60px/1200px */
+	margin-top: .083333333333%; /* 1px/1200px */
+	margin-right: 5.833333333333% /*70px; */
 }
 
 body {
@@ -30,9 +31,9 @@ body {
 	background-repeat: repeat-x;
 	}
 	
-p {
+p {	margin-top: 160px;
 	font-family: 'Donegal One', sans-serif;
-	font-size: 20px;
+	font-size: 110%; /* 20px*/
 	clear:left;
 	}
 	
@@ -45,13 +46,19 @@ p {
 
 
 article p img {
+	width: 41.666666666667%; /*500px;*/
 	float:left;
 	margin-right: 9px;
-	margin-top: 50px;
 	margin-bottom: 50px;
 	border-style: solid;
 	border-radius: 10px;
 	border-color: #000;
+}
+
+
+#artist	{
+ 
+	max-width: 100%;
 }
 
 
@@ -119,9 +126,12 @@ ul li img {
 	float:left;
 	margin-left: 1.666666666667%; /* 20px/1200px */
 	border: 10px solid #fff;
-	padding: .416666666667%;
+	padding: .416666666667%; /* 5px/1200px */
 	}
 
+ul li img {
+	max-width: 100%;
+}
 
 
 /* Contact Me-----------------------------------------------------------*/
