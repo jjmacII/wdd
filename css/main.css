@@ -33,13 +33,13 @@ body {
 	
 p {	margin-top: 160px;
 	font-family: 'Donegal One', sans-serif;
-	font-size: 110%; /* 20px*/
+	font-size: 1.250em; /* 20px*/
 	clear:left;
 	}
 	
 #process {
 	font-family: 'Donegal One', sans-serif;
-	font-size: 110%; /* 20px */
+	font-size: 1.250em; /* 20px */
 	-moz-column-count: 3;
 	
 }
@@ -64,7 +64,7 @@ article p img {
 
 aside {
 	font-family: 'Donegal One', sans-serif;
-	font-size: 110% /* 20px*/
+	font-size: 1.250em; /* 20px*/
 }
 	
 
@@ -112,7 +112,7 @@ nav ul li a:hover {
 	height: 2.5%; /* 30px/1200px*/
 	clear: both;
 	margin-top: 0.833333333333%; /* 10px/1200px*/
-	font-size: 2.083333333333%; /* 25px/1200px*/
+	font-size: 1.500em; /* 25px/1200px*/
 	}
 
 ul { 
@@ -140,13 +140,13 @@ h4 {
 	font-family: 'Gabriela', sans-serif;
 	height: 2.5%; /* 30px */
 	clear: both;
-	font-size: 115%; /* 25px */
+	font-size: 1.500em; /* 25px */
 	
 }
 
 #contact {
 	font-family: 'Gabriela', sans-serif;
-	font-size: 95%; /* 15px */
+	font-size: 1.000em; /* 15px */
 	margin-bottom: 2.5%; /* 30px */
 }
 
