@@ -213,7 +213,18 @@ h2 {
 	font-size: 1.250em; /* 20px */
 	-moz-column-count: 2;
 	}
+	
+p {
+	font-size: 1.00em; /* 16px */
+}
 
+#process {
+	font-size: 1.00em;  /* 16px */
+}
+
+aside {
+	font-size: 1.00em; /* 16px */
+}
 body {
 	padding: 1.043024771838%; /* 8px/767px */
 	background-image: none;
@@ -230,19 +241,32 @@ h1 {
 }
 
 h2 {
-	margin-top: -2.087682672234%;  /*-10px/479px */
+	font-size: 100%;
+	margin-top: 4.175365344468%;  /*20px/479px */
+}
+
+h3 {
+	font-size: 100%;
+}
+
+h4 {
+	font-size: 100%;
 }
 
 
 p {
+	font-size: 0.938em; /* 15px*/
 	margin-top: 31.315240083507%; /*150px/479px */
 }
 
+aside {
+	font-size: 0.938em; /* 15px */
+}
 
 #process {
 	margin-top: 4.175365344468%;  /*20px/479px */
 	font-family: 'Donegal One', sans-serif;
-	font-size: 1.250em; /* 20px */
+	font-size: 0.938em; /* 15px */
 	-moz-column-count: 1;
 	}
 	
