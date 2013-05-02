@@ -107,7 +107,7 @@ nav ul li a:hover {
 
 /* Gallery-------------------------------------------------------------*/
 	
-	h3 {
+#gallery{
 	font-family: 'Gabriela', sans-serif;
 	height: 2.5%; /* 30px/1200px*/
 	clear: both;
@@ -138,19 +138,27 @@ ul li img {
 
 /* Contact Me-----------------------------------------------------------*/
 
-h4 {
-	font-family: 'Gabriela', sans-serif;
-	height: 2.5%; /* 30px */
-	clear: both;
-	font-size: 1.500em; /* 25px */
-	
+table {
+	border-collapse: collapse;
+	border: 1px solid #000;
 }
 
-#contact {
-	font-family: 'Gabriela', sans-serif;
-	font-size: 1.000em; /* 15px */
-	margin-bottom: 2.5%; /* 30px */
-}
+ td {
+ 	border: 1px solid #000;
+ 	text-align: left;
+ 	background-color: #000;
+ 	color: #fff;
+ 	padding: 0.3em;
+ }
+ 
+ th {
+ 	text-align: left;
+ 	background-color: #800000;
+ 	color: #fff;
+ 	padding: 0.3em;
+ }
+ 
+
 
 
 
@@ -161,6 +169,7 @@ h4 {
 
 footer {
 	font-family: Arial, sans-serif;
+	clear: right;
 	
 	
 }
